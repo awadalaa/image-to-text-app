@@ -1,12 +1,12 @@
 ---
 title: Image To Text App
-emoji: 📉
+emoji: ʕ•́ᴥ•̀ʔ
 colorFrom: green
 colorTo: green
 sdk: streamlit
 sdk_version: 1.10.0
 app_file: app.py
-pinned: false
+pinned: true
 license: apache-2.0
 ---
 
