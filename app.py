@@ -44,4 +44,4 @@ if image is not None:
 else:
     st.write("Upload an Image")
 
-st.caption("Made with ❤️ by @1littlecoder")
+st.caption("Made with ❤️  by @alaaawad")
